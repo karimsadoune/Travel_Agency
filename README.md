@@ -20,9 +20,9 @@
 ---
 ### WAMP server
 
-username: root
+*username*: root
 
-password:
+*password*:
 
 ---
 ### SADOUNE ABDELKARIM --- 2021
