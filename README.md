@@ -19,6 +19,7 @@
 - A part will manage the destinations: create, modify or delete a destination
 ---
 username: root
+
 password:
 
 ---
